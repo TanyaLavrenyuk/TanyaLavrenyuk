@@ -29,13 +29,13 @@ A quick learner who approaches tasks with responsibility. Drawing from a strong 
 ---
 
 ### 🗣️ Languages
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![English](https://img.shields.io/badge/English-Pre--Intermediate-blue?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 ---
 
 ### 📫 How to reach me:
-[Telegram](https://t.me/@tanyalavrenyuk) | [Email](mailto:tlawrenyuk43@gmail.com)
+[Telegram](https://t.me/tanyalavrenyuk) | [Email](mailto:tlawrenyuk43@gmail.com)
 
 
 <!--
