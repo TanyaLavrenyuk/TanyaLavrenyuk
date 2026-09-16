@@ -35,7 +35,7 @@ A quick learner who approaches tasks with responsibility. Drawing from a strong 
 ---
 
 ### 📫 How to reach me:
-[Telegram](https://t.me/tanyalavrenyuk) | [Email](mailto:tlawrenyuk43@gmail.com)
+[Telegram](https://t.me/tanyalavrenyuk) | [Email](mailto:tlawrenyuk43@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tetiana-lavreniuk/)
 
 
 <!--
